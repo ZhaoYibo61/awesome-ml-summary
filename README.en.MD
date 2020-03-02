@@ -7,13 +7,13 @@
 
 |     Project Name          |             Project Profile                |
 | -------------------- | ----------------------------------- |
-| [LSTM](https://github.com/crazyjums/LSTM)| 使用LSTM神经网络进行时间序列数据预测分析, 基于Tensorflow框架、Kerase接口开发网络模型 |
+| [LSTM](https://github.com/crazyjums/LSTM)| The data analysis and prediction with LSTM, which implemented by Tenseoflow and the API of Keras |
 |[AIAlpha](https://github.com/VivekPa/AIAlpha)|This project is meant to be an advanced implementation of stacked neural networks to predict the return of stocks. |
-|[Air_Pollution_Forcast_Beijing](https://github.com/634671436/Air_Pollution_Forcast_Beijing)|基于Keras的LSTM多变量时间序列预测|
-|[TimeSeries_Predict](https://github.com/jeurtr/TimeSeries_Predict)|客流量时间序列预测|、
-|[TimeSeriesPrediction](https://github.com/wikke/TimeSeriesPrediction)|洗发水、股票预测等|
-|[ARIMA](https://github.com/huang027/ARIMA)|基于`ARIMA`的预测|
-|[TimeSeriesForecasting](https://github.com/yangwohenmai/TimeSeriesForecasting)|基于统计学的时间序列预测|
+|[Air_Pollution_Forcast_Beijing](https://github.com/634671436/Air_Pollution_Forcast_Beijing)|LSTM multivariate time series prediction based on Keras|
+|[TimeSeries_Predict](https://github.com/jeurtr/TimeSeries_Predict)|Passager flow time series forecast, etc|、
+|[TimeSeriesPrediction](https://github.com/wikke/TimeSeriesPrediction)|Stock forecast, etc|
+|[ARIMA](https://github.com/huang027/ARIMA)|A predict algorithm based on `ARIMA`|
+|[TimeSeriesForecasting](https://github.com/yangwohenmai/TimeSeriesForecasting)|The time series forecasting based on statisical|
 
 ### 1.2 RecommenderSystem
 
