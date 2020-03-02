@@ -21,6 +21,16 @@
 | -------------------- | ----------------------------------- |
 | [RecommenderSystem-Paper](https://github.com/crazyjums/RecommenderSystem-Paper)| For the convenience of reading, I collect some basic and important papers about recommender system. |
 
+### Machine Learning Related Documention
+
+|     Project Name          |             Project Profile                |   GitHub  |  Website  |
+| -------------------- | ----------------------------------- |------------|----------|
+| numpy-cn| The tutorial of `numpy` in Chinese|[numpy-cn](https://github.com/teadocs/numpy-cn)|[numpy-cn](https://www.numpy.org.cn/)|
+|pandas-cn|The tutorial of `pandas` in Chinese|[pandas-cn](https://github.com/teadocs/pandas-cn)|[pandas-cn](https://www.pypandas.cn/)
+|matplotlib-cn|The tutorial of `matplotlib` in Chinese|[matplotlib-cn](https://www.matplotlib.org.cn/)|[matplotlib-cn](https://www.matplotlib.org.cn/)|
+|TensorFlow-cn|The tutorial of `TensorFlow` in Chinese|[TensorFlow-cn](https://github.com/xitu/tensorflow-docs)|[TensorFlow-cn](https://tensorflow.juejin.im/get_started/)|
+|sklearn-cn|The tutorial of `sklearn` in Chinese|[sklearn-cn](https://github.com/apachecn/sklearn-doc-zh)|[sklearn-cn](https://sklearn.apachecn.org/)|
+
 
 ---
 ### About Author
@@ -30,5 +40,4 @@
 |  Official Account   | Wechat Pay  |  Alipay |
 |--------------|----------|-------------|  
 | <img src="https://cdn.jsdelivr.net/gh/crazyjums/crazyjums.github.io@master/images/wechataccount.jpg" width="200px" height="200px"/>  | <img src="https://cdn.jsdelivr.net/gh/crazyjums/crazyjums.github.io@master/images/wechatpay.jpg" width="220px" height="220px"/> | <img src="https://cdn.jsdelivr.net/gh/crazyjums/crazyjums.github.io@master/images/alipay.jpg" width="200px" height="200px"/>|
-
 
