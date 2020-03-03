@@ -14,8 +14,27 @@
 |[TimeSeriesPrediction](https://github.com/wikke/TimeSeriesPrediction)|Stock forecast, etc|
 |[ARIMA](https://github.com/huang027/ARIMA)|A predict algorithm based on `ARIMA`|
 |[TimeSeriesForecasting](https://github.com/yangwohenmai/TimeSeriesForecasting)|The time series forecasting based on statisical|
+|[lstm-rnn-stock-predict](https://github.com/Clearfk/lstm-rnn-stock-predict)|This is a little project, about the LSTM-RNN Algorithm, use for share prediction. Implemented by Tensorflow.|
+|[TripleExponentialSmoothing](https://github.com/coder17173/TripleExponentialSmoothing)|The third-order exponential smoothing algorithm has a good prediction effect for time series with trends and periodicity.|
+|[ML_stock_qt](https://github.com/mufeiandroid/ML_stock_qt)|Based on Machine learning Algorithm, use for A-Share stock Prediction. |
+|[intelligentler-bp-ga](https://github.com/ZhouM1118/intelligentler-bp-ga)|Based on BP algorithm and genetic algorithm, a prediction model of wuhan's air quality index was established. The 1-year air quality data from eight monitoring stations in wuhan were used as training data for neural network modeling. The data in the past month were used as test data to test the accuracy of the model, with an average accuracy of about 75%.|
+|[stock_simple_mlp_algorithm](https://github.com/xiaoluchaotian/stock_simple_mlp_algorithm)|A simple stock prediction algorithm, use the past five days data, and more than ten parameters to train the model.|
+|[timeSeriesForecasting](https://github.com/maxiaozte/timeSeriesForecasting)|A summary about the time series forecasting algorithm.|
+|[forest-cover-type-prediction](https://github.com/tudoulei/forest-cover-type-prediction)|kaggle competition cover type prediction algorithm. |
+|[ctrip001](https://github.com/hangtongluo/ctrip001)|A competition about the airflight delay prediction.|
+|[Analysis-of-College-Graduates-Employment-Orientation](https://github.com/andinsbing/Analysis-of-College-Graduates-Employment-Orientation)|This project aims to build a large data processing based on the analysis and prediction of university students' employment direction system, through the crawler technology companies and famous recruitment website for a large number of recruitment information, and then gets the data stored in the database after washing classification, finally from the perspective of the employment of college students, the data through the analysis of the algorithm, to build a platform to help college students' employment direction and social demands|
+|[ARIMA](https://github.com/nik-niming/ARIMA)|A Demo of time series forecasting, based on monthly data of aviation set.|
 
-### 1.2 RecommenderSystem
+
+### 1.2 Prediction Algorithm
+
+|     Project Name          |             Project Profile                |
+| -------------------- | ----------------------------------- |
+| [JData](https://github.com/xiaoming-qxm/JData)| JD.COM JData Competition of Algorithm-high potential user pruchase prediction. |
+|[jstarcraft-rns](https://github.com/HongZhaoHua/jstarcraft-rns)|Focusing on solving two core problems in recommendation and search: Ranking and Rating, it provides a complete general design and reference implementation for researchers in related fields, covering more than 70 Ranking prediction and Rating prediction algorithms, and is the fastest and most complete Java recommendation and search engine.|
+|[JData_2018](https://github.com/onion1003/JData_2018)|JD.COM 2018 Competition of Algorithm come-user purhaseing time prediction.|
+
+### 1.3 RecommenderSystem
 
 |     Project Name          |             Project Profile                |
 | -------------------- | ----------------------------------- |
